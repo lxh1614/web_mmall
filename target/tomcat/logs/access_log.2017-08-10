@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:14:40 +0800] "GET / HTTP/1.1" 200 549 http-bio-8080-exec-1 1123
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:14:40 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:14:50 +0800] "POST /manage/product/upload.do HTTP/1.1" 200 67 http-bio-8080-exec-5 131
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:14:55 +0800] "POST /manage/product/richtext_img_upload.do HTTP/1.1" 200 55 http-bio-8080-exec-7 35
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:15:10 +0800] "POST /manage/product/upload.do HTTP/1.1" 200 67 http-bio-8080-exec-3 28
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:15:18 +0800] "GET /manage/login HTTP/1.1" 404 975 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:15:53 +0800] "GET //user/login.do HTTP/1.1" 405 1045 http-bio-8080-exec-8 10
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:16:16 +0800] "GET /user/login.do HTTP/1.1" 405 1045 http-bio-8080-exec-7 7
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:16:22 +0800] "GET /user/login.do HTTP/1.1" 405 1045 http-bio-8080-exec-2 7
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:16:23 +0800] "GET /user/login.do HTTP/1.1" 405 1045 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:16:24 +0800] "GET /user/login.do HTTP/1.1" 405 1045 http-bio-8080-exec-2 5
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:16:25 +0800] "GET /user/login.do HTTP/1.1" 405 1045 http-bio-8080-exec-2 5
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:16:26 +0800] "GET /user/login.do HTTP/1.1" 405 1045 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [10/Aug/2017:14:16:26 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 1
